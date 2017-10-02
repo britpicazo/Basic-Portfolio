@@ -1,12 +1,15 @@
-# Basic-Portfolio
-Houston Coding Bootcamp Delivered by UT Austin - Assignment 1
+# Responsive-Portfolio
 
-## Getting Started
+### Houston Coding Boot Camp - Assignment 1
+
+Our very first assignment, making a basic portfolio.
+
+### Getting Started
 
 Click on the following link to view the completed assignment.   
 https://britpicazo.github.io/Basic-Portfolio/
 
-## Built With
+### Built With
 
 * HTML5
 * CSS3
