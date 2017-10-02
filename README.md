@@ -1,5 +1,5 @@
 # Basic-Portfolio
-Houston Coding Bootcamp Delivered by UT Austin - Assignment #1
+Houston Coding Bootcamp Delivered by UT Austin - Assignment 1
 
 ## Getting Started
 
